@@ -1,0 +1,9 @@
+api:
+  url: "https://api.deepseek.com/v1/chat/completions"
+  api_key: "xxxxx" 
+  model: "deepseek-reasoner"
+  max_tokens: 8192
+
+paths:
+  data_dir: "generated_data"
+  log_dir: "logs"
