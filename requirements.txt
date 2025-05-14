@@ -1,0 +1,15 @@
+cuda==12.1
+python==3.10
+vllm==0.5.3.post1
+torch==2.3.1+cu121
+torchaudio==2.3.1+cu121
+torchvision==0.18.1+cu121
+six==1.16.0
+scikit-learn==1.6.1
+scipy==1.15.2
+transformers==4.44.2
+peft==0.15.2
+datasets==3.5.0
+jsonlines==4.0.0
+bert-score==0.3.13
+rouge==1.0.1
