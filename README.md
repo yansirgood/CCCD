@@ -1,5 +1,5 @@
 # CCCD
-Welcome to the Chinese Case Characterization Dataset(CCCD),a comprehensive,high-quality classification dataset containing 55,988 Chinese legal cases across 47 categories.
+Welcome to the Chinese Legal Case Characterization Dataset(CCCD),a comprehensive,high-quality classification dataset containing 55,988 Chinese legal cases across 47 categories.
 ## Instruction
 we launched the Chinese Case Characterization Dataset (CCCD), a large-scale, high-quality classification dataset containing more than 55,988 Chinese legal cases covering 47 categories, including "Labor and Personnel", "Consumer Rights Protection",among them, the “Labor and Personnel” category was the most common, accounting for 36.94% (20,684 cases), followed by the “Contract Dispute” category, accounting for 8.98% (5,026 cases),the remaining 45 categories account for 54.08%(35278 cases). The dataset is divided into a training set (44,738 cases), a validation set (5,625 cases), and a test set (5,625 cases) in a ratio of 8:1:1 to support standard machine learning workflows.
 
